@@ -15,3 +15,8 @@ Parte teorica :
 - Invito qualsiasi persona a leggersi qualche volta ( 1/2 volte ) il PDF "Mod 2 Abeni - Tagliato", sono spezzoni delle vere dispense in cui ho eliminato varie formalità che spiegava che sinceramente non avevano neanche senso leggere.  
 ( Slide con solo codice oppure cose che non erano per niente spiegate bene )  
 ( Nella cartella Mod2 Teorico si trovano le slide complete )
+
+Altre cose importanti che potete visualizzare :
+
+- Grazie a Luca Mosetti e la sua costruzione di una JavaFX Application :
+	https://github.com/gekoramy/GitHub-Quiz
